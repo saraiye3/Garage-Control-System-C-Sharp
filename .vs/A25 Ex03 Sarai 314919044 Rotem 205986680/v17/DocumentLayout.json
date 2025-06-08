@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE99DD8-30D4-4B88-8138-7B46E4084F70}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\ex03.consoleui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE99DD8-30D4-4B88-8138-7B46E4084F70}|Ex03.ConsoleUI\\Ex03.ConsoleUI.csproj|solutionrelative:ex03.consoleui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\ex03.garagelogic\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\ex03.garagelogic\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\ex03.garagelogic\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\ex03.garagelogic\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\user\\source\\repos\\c#\\a25 ex3 saraiyehezkel 314919044 rotemsaraf 205986680\\a25 ex3 saraiyehezkel 314919044 rotemsaraf 205986680\\ex03.garagelogic\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|c:\\users\\user\\source\\repos\\c#\\a25 ex3 saraiyehezkel 314919044 rotemsaraf 205986680\\a25 ex3 saraiyehezkel 314919044 rotemsaraf 205986680\\ex03.garagelogic\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7DEAE8-27E7-412C-AA9B-0B2C51FE296A}|Ex03.GarageLogic\\Ex03.GarageLogic.csproj|solutionrelative:ex03.garagelogic\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1315,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Garage.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Garage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Garage.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\VehicleFactory.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\VehicleFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:46:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Vehicle.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Vehicle.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:44:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Truck.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Truck.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Truck.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Truck.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:43:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Car.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Car.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:43:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Ex03.GarageLogic\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.GarageLogic\\Motorcycle.cs",
+              "RelativeToolTip": "Ex03.GarageLogic\\Motorcycle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:41:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.ConsoleUI\\UI.cs",
+              "RelativeDocumentMoniker": "Ex03.ConsoleUI\\UI.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\c#\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\A25 Ex3 SaraiYehezkel 314919044 RotemSaraf 205986680\\Ex03.ConsoleUI\\UI.cs",
+              "RelativeToolTip": "Ex03.ConsoleUI\\UI.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:10:34.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1315,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
